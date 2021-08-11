@@ -1,7 +1,7 @@
 # TR
 ## Treball de recerca Taula auxiliar per a persones amb mobilitat reduïda
 
- -Documentation -> Taula Auxiliar PAMR-5.pdf
+ -Documentation -> Taula Auxiliar PAMR-5.pdf <br>
 -Video ->
 
 L’objectiu d’aquest treball consisteix en el disseny i construcció d’una taula
