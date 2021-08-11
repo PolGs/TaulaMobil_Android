@@ -1,6 +1,9 @@
 # TR
 ## Treball de recerca Taula auxiliar per a persones amb mobilitat reduïda
 
+![alt text](https://github.com/PolGs/TR/raw/main/image_2021-08-11_022804.png)
+
+
  -Documentation -> Taula Auxiliar PAMR-5.pdf <br>
 -Video ->
 
