@@ -1,4 +1,4 @@
-# TR
+# RC Auxiliary Table for Handicapped People
 ## Treball de recerca Taula auxiliar per a persones amb mobilitat reduïda
 ### Disseny i construcció d’una taula mòbil auxiliar controlada mitjançant un telèfon intel·ligent que permeti a les persones amb dificultats motrius parar i desparar la taula
 ![alt text](https://github.com/PolGs/TR/raw/main/image_2021-08-11_022804.png)
