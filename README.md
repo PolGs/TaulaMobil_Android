@@ -36,3 +36,11 @@ En l’última part -el codi i circuit complet- és on es mostra una combinació
 dels dos programes usats en les parts anteriors i l’addició de les parts
 necessàries perquè l’Arduino interpreti les dades en temps real i obtenir
 moviment de la taula immediat a distància.
+
+
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
