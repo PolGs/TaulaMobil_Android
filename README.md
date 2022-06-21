@@ -7,6 +7,18 @@
 ![image](https://user-images.githubusercontent.com/19478700/128955499-032c6b7e-24ed-41e1-8add-addc9d3813e2.png)
 
 
+
+<object data="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf">
+        <p>Treball complet en PDF: <a href="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
+
+
  -Documentation -> Taula Auxiliar PAMR-5.pdf <br>
 -Video ->
 
@@ -39,8 +51,3 @@ moviment de la taula immediat a distància.
 
 
 
-<object data="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/PolGs/TaulaMobil_Android/raw/main/Taula%20Auxiliar%20PAMR-5.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
